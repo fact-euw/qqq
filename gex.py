@@ -1,5 +1,5 @@
 """
-GEXRADAR // QUANT TERMINAL  — Premium Redesign
+FACTRADAR // QUANT TERMINAL  — Premium Redesign
 Run: streamlit run app.py
 
 ─────────────────────────────────────────────────────────────────────────────
