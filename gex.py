@@ -64,7 +64,7 @@ AUTO_REFRESH_SECONDS = 60
 # ─────────────────────────────────────────────────────────────────────────────
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────────────────────────
-st.set_page_config(page_title="GEXRADAR", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="fact", layout="wide", initial_sidebar_state="expanded")
 
 if "current_page" not in st.session_state:
     st.session_state.current_page = "DASHBOARD"
