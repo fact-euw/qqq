@@ -666,7 +666,7 @@ _components.html(f"""
 <div class="nav-bar">
   <div class="nav-wordmark">
     <span class="nav-pip"></span>
-    <span><span class="nav-word">GEX</span><span class="nav-accent">RADAR</span></span>
+    <span><span class="nav-word">FACT</span><span class="nav-accent">RADAR</span></span>
   </div>
   <div class="nav-right">
     <div class="nav-status">
